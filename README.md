@@ -3,6 +3,8 @@
 Projeto realizado utilizando Jupyter Notebook 
 https://jupyter.org/
 
+Projeto do curso Python Impressionador da Hashtag Treinamentos https://www.hashtagtreinamentos.com/curso-python
+
 Automação de Indicadores
 Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
